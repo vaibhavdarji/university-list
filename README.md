@@ -1,5 +1,5 @@
 # University Domains and Names API Seach App using React JS, Redux, Thunk and Material UI
-### [Live Site] 
+### [Live Site](https://university-list.netlify.app/)
 
 # Getting Started with Create React App
 
